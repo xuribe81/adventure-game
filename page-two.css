@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    color:rgb(255,0,0);
+    text-align: center;
+    border-style: dashed;
+    border-color: dodgerblue;
+    padding: 15px;
+    font-size: 40px;
+    font-family: 'Shrikhand', cursive;
+}
+h3{
+    border-bottom-style: double;
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    color: green
+}
+body{
+    background-color:purple;
+    margin: 20px
+}
+p{
+    color: gold;
+    font-size: 20px;
+    font-family: 'Spirax', cursive;
+}
+#fight, #doesnt{
+    color: orange;
+    font-family: 'IM Fell English SC', serif;
+    font-size:20px;
+}
+#fight{
+    float: right;
+    text-align: center;
+    padding: 10px;
+    border-style: dotted;
+    border-color:grey;
+    margin: 10px
+}
+#doesnt{
+    margin: 5px;
+    float: right;
+    padding: 10px;
+    border-style:solid;
+    text-align: center;
+}
